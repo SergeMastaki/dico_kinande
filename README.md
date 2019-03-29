@@ -1,5 +1,7 @@
-# dico_kinande
+# Dictionnaire kinande-francais
 
-Bonjour à tous !
-Je m'appelle Serge Mastaki. Je suis Bachelier Ingénieur Civil Electromécanicien et Programmeur Java par passion.
-Ceci est la première version officielle du dictionnaire kinande-français. Ce logiciel a pour but de promouvoir la culture nande au travers de sa langue.
+Ce dictionnaire est la première version officielle du dictionnaire kinande-français basé sur le [dictionnaire kinande-français](http://www.google.cd/url?q=http://www.africamuseum.be/museum/research/publications/rmca/online/online-kinande.pdf) du professeur __Philippe Mutaka__. Ce logiciel a pour but de promouvoir la culture nande au travers de sa langue.
+
+## Captures d'écran
+
+![Capture d'écran](screenshot/dico_kinande_screenshot.png)
