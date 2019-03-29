@@ -2,4 +2,5 @@ language: java
 jdk:
   - openjdk11
   - openjdk8
-install: ant
+install: ant deps
+script: ant
